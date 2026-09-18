@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+secrets/
+*.key
+*.pem
+
+# Local / editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.backup
+*.tar
+*.tar.gz
+*.zip
