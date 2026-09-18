@@ -17,7 +17,7 @@ https://<MINECRAFT_IP>:8443
 Public Minecraft:
 
 ```text
-play.kenfy.dev:25565
+play.example.com:25565
 ```
 
 Current primary server:
@@ -47,7 +47,7 @@ Current Terraria allocation:
 Public access:
 
 ```text
-play.kenfy.dev:7777
+play.example.com:7777
 ```
 
 Pterodactyl panel remains local-only.

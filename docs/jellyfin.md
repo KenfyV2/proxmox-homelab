@@ -15,7 +15,7 @@ http://<JELLYFIN_IP>:8096
 Remote URL:
 
 ```text
-https://jellyfin.kenfy.dev
+https://jellyfin.example.com
 ```
 
 ## Libraries

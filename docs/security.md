@@ -27,10 +27,10 @@ Use placeholders in documentation:
 Public:
 
 ```text
-jellyfin.kenfy.dev
-seer.kenfy.dev
-play.kenfy.dev:25565
-play.kenfy.dev:7777
+jellyfin.example.com
+seer.example.com
+play.example.com:25565
+play.example.com:7777
 ```
 
 Local-only:

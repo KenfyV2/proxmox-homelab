@@ -15,11 +15,11 @@ Caddy is the reverse proxy.
 Current public routes conceptually look like:
 
 ```caddy
-jellyfin.kenfy.dev {
+jellyfin.example.com {
     reverse_proxy <JELLYFIN_IP>:8096
 }
 
-seer.kenfy.dev {
+seer.example.com {
     reverse_proxy <ARR_IP>:5055
 }
 ```

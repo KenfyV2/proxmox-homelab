@@ -21,9 +21,9 @@ Public records are DNS-only for direct home-hosted services.
 Examples:
 
 ```text
-jellyfin.kenfy.dev
-seer.kenfy.dev
-play.kenfy.dev
+jellyfin.example.com
+seer.example.com
+play.example.com
 ```
 
 ## Router Port Forwards

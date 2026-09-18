@@ -24,7 +24,7 @@ http://<ARR_IP>:5055
 Public URL:
 
 ```text
-https://seer.kenfy.dev
+https://seer.example.com
 ```
 
 ---

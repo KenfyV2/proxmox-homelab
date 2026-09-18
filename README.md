@@ -14,8 +14,8 @@ flowchart TD
     Router -->|7777| Games[VM 200 - Games\n<GAMES_IP>]
 
     Utility --> Caddy
-    Caddy -->|jellyfin.kenfy.dev| Jellyfin[CT 101 - Jellyfin\n<JELLYFIN_IP>]
-    Caddy -->|seer.kenfy.dev| Arr[VM 201 - ARR\n<ARR_IP>]
+    Caddy -->|jellyfin.example.com| Jellyfin[CT 101 - Jellyfin\n<JELLYFIN_IP>]
+    Caddy -->|seer.example.com| Arr[VM 201 - ARR\n<ARR_IP>]
 
     Arr --> Storage[(2 TB Media HDD)]
     Jellyfin --> Storage
@@ -72,3 +72,7 @@ The Proxmox UI, Crafty, Radarr, Sonarr, SABnzbd, Prowlarr, Bazarr, AdGuard, Home
 - 2 TB HDD for backups
 
 The host currently has significant CPU and memory headroom, so the services are intentionally separated for reliability instead of being combined into one large VM.
+
+## Extras
+
+- [Discord Homelab Status Bot](discord-bot/README.md)
